@@ -1,1 +1,5 @@
 /Class\ Materials/*
+
+# Large model files (exceed GitHub size limits)
+*.onnx
+*.caffemodel
