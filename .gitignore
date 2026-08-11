@@ -1,4 +1,5 @@
 /Class\ Materials/*
+/Term-Project
 
 # Large model files (exceed GitHub size limits)
 *.onnx
