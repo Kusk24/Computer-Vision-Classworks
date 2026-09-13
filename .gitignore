@@ -1,6 +1,8 @@
 /Class\ Materials/*
 /Term-Project/sala-chaturamuk-viewer
-
+/Term-Project/*
 # Large model files (exceed GitHub size limits)
 *.onnx
 *.caffemodel
+# Playwright MCP tool output
+.playwright-mcp/
